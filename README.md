@@ -3,6 +3,22 @@
 [![Build Status](https://travis-ci.org/SciLifeLab/NGI-MethylSeq.svg?branch=master)](https://travis-ci.org/SciLifeLab/NGI-MethylSeq)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A50.25.1-brightgreen.svg)](https://www.nextflow.io/)
 
+# This pipeline has moved
+
+This pipeline has been moved to the new `nf-core` GitHub organisation. You can now
+find it here:
+
+### https://github.com/nf-core/methylseq
+
+This repository will be archived to maintain the release version for future
+reproducability, to allow reruns.
+
+If you have any questions, please get in touch: support@ngisweden.se
+
+// Phil Ewels, 2018-03-12
+
+---
+
 ### Introduction
 
 NGI-MethylSeq is a bioinformatics best-practice analysis pipeline used for Methylation (BS-Seq) data analysis at the [National Genomics Infastructure](https://ngisweden.scilifelab.se/) at [SciLifeLab Stockholm](https://www.scilifelab.se/platforms/ngi/), Sweden.
